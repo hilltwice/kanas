@@ -1,0 +1,6 @@
+{
+  "name": "kanas",
+  "description": "An extension toolkit for vscode.",
+  "version": "0.0.0",
+  "private": true
+}
