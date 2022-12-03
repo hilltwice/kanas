@@ -2,5 +2,11 @@
   "name": "kanas",
   "description": "An extension toolkit for vscode.",
   "version": "0.0.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "pnpm": "^7.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
 }
